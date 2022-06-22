@@ -1,0 +1,29 @@
+Application programmin Interface
+
+A--> api <--B
+
+* communication btw two applications
+* how the 2 applications can talk with each other (requests & responses)
+
+    UI-->       api     <-- Backend
+(Front end)                (Server side)
+
+Types:
+    1.Open APIs
+    2.Partner APIs
+    3.Internal APIs
+    4.Composite APIs
+
+
+Types of API architectures:
+    1)REST-Representational State Transfer
+    2)SOAP-Simple Object Access Protocol
+    3)RPC-remote Procedural Call    
+
+    Public API- publicily exposed and anyone with/without  credentials can use 
+        *Google API
+        *Twitter API
+
+        Private-cannot access over internet
+        xyz.com/apis/getusers
+         protected -certain username and paswrd

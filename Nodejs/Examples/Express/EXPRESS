@@ -1,0 +1,10 @@
+->Express: backend framework
+ =server
+ =express is built on top of Node
+ =http.createServer() -Node JS
+ =app.get()- Express
+->Node js :Server side scripting lang using JS
+ 
+ POSTMAN tool
+        -for testing APIs
+        -make req via diff HTTP methods
